@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm an electronic engineering student at Universidad Tecnológica Nacional Facultad Regional Mendoza
 <!--
 **vittorm06/vittorm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
